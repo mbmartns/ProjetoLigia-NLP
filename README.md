@@ -40,14 +40,7 @@ Este repositório contém a solução desenvolvida para o desafio de classifica�
 | 1      | 1.00      | 1.00   | 1.00     |
 
 ## 🗂️ Estrutura do repositório
+<img width="548" height="215" alt="image" src="https://github.com/user-attachments/assets/16c92244-af6d-4bc0-be98-2c6cd00e1566" />
 
-├── notebooks/
-│ ├── 01_eda.ipynb # Análise exploratória completa
-│ ├── 02_treinamento.ipynb # Treinamento do modelo RoBERTa
-│ └── 03_explicabilidade.ipynb # Interpretabilidade com LIME
-├── data/ #amostra dos dados ou instruções para download
-├── models/ # modelo salvo
-├── submission.csv # arquivo gerado para o Kaggle
-└── README.md
 
 
