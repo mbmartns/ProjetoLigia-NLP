@@ -40,7 +40,8 @@ Este repositório contém a solução desenvolvida para o desafio de classifica�
 | 1      | 1.00      | 1.00   | 1.00     |
 
 ## 🗂️ Estrutura do repositório
-<img width="548" height="215" alt="image" src="https://github.com/user-attachments/assets/16c92244-af6d-4bc0-be98-2c6cd00e1566" />
+<img width="510" height="191" alt="image" src="https://github.com/user-attachments/assets/d7c530e2-6a76-4863-8119-fe27a7e5786f" />
+
 
 
 
