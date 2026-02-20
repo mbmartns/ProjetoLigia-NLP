@@ -24,13 +24,13 @@ Este repositório contém a solução desenvolvida para o desafio de classifica�
 
 ## 📊 Resultados
 
-- **F1 Macro na validação:** 0,9994 (apenas 1 erro em 2291 amostras).
+- **F1 Macro na validação:** 1,0000 (nenhum erro em 2291 amostras).
 - **Matriz de confusão:**
 
 |                | Previsto Fake | Previsto Real |
 |----------------|---------------|---------------|
 | **Real (0)**   | 1744          | 0             |
-| **Fake (1)**   | 1             | 547           |
+| **Fake (1)**   | 0             | 547           |
 
 - **Relatório de classificação:**
 
